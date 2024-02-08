@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>			                      
+            <class name="Test.Bidz.ai.Page_Test.OnBoardNow_Buyer_pagetest" />	
+            <class name="Test.Bidz.ai.Page_Test.Bidz_Login_PageTest" />	
+            <class name="Test.Bidz.ai.Page_Test.Bidz_Buyer_item_pageTest" /> 	 
+            
+			<class name="Test.Bidz.ai.Page_Test.GoogleAccount_PageTest" />
+			
+			<class name="Test.Bidz.ai.Page_Test.Buyer_organizationvendor_pagetest" />
+						
+			<class name="Test.Bidz.ai.Page_Test.AddVendor_PageTest" />	 
+					
+			<class name="Test.Bidz.ai.Page_Test.gmail_pagetest" />			
+			<class name="Test.Bidz.ai.Page_Test.vendor_signup_bussinesspagetest" />
+			<class name="Test.Bidz.ai.Page_Test.vendor_signup_bankdetails_pagetest" />
+			<class name="Test.Bidz.ai.Page_Test.vendor_signup_contactdetails_pagetest" />
+			<class name="Test.Bidz.ai.Page_Test.vendor_signup_documents_pagetest" />
+			
+			<class name="Test.Bidz.ai.Page_Test.AddRfq_pagetest" />
+
+			<class name="Test.Bidz.ai.Page_Test.vendor_Login_pagetest" />
+			<class name="Test.Bidz.ai.Page_Test.Buyer_dashboard_pagetest" />
+			<class name="Test.Bidz.ai.Page_Test.vendor_Rfq_pagetest" />
+			<class name="Test.Bidz.ai.Page_Test.Buyer_Rfq_pagetest" />
+			<class name="Test.Bidz.ai.Page_Test.buyer_2ndrfq_pagetest" />			
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+           
