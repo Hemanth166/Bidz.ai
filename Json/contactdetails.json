@@ -1,0 +1,27 @@
+[
+{
+
+
+"first_name"                 : "Hemanth",
+"last_name"                  : "kumar",
+"designation"                : "Ceo",
+"official_mobile_number"     : "9876555578", 
+"official_email_address"     : "hemanthworkspace14@gmail.com",
+
+"rep_first_name"             : "Sasi",
+"rep_last_name"              : "kumar",
+"rep_designation"            : "Manager",
+"rep_official_mobile_number" : "69759787",
+"rep_official_email_address" : "hemanthworkspace1@gmail.com",
+
+"financerep_first_name"      : "logesh",
+"financerep_last_name"       : "Kanna",
+"financerep_designation"     : "associate",
+"financerep_mobile_num"      : "7605865",
+"financerep_email"           : "logeshkanna@gmail.com"
+
+
+
+
+}
+]

@@ -1,0 +1,29 @@
+[
+	{
+		
+		
+		"company_name"                 : "lenovo",
+		"company_type"                 : "Partnership",
+		"company_registration_number"  : "10037",		
+		"first_name"                   : "Mark Antony",
+		"last_name"                    : "kane",		
+		"designation"                  : "admin",
+		"official_email"               : "Hemanth@macappstudio.com",		
+		"phone_number"                 : "8114874551",		
+		"password"                     : "Hemanth@123",
+		"confirm_password"             : "Hemanth@123",
+		
+				
+		
+		"terms_and_condition"          : "True",
+		
+		"Email_ID_Google"              : "Hemanth@macappstudio.com",
+		"Email_pass_Google"            : "Hemanth@36",
+		
+		"Search_Box"                   : "OTP for Onboard"
+			
+	
+		
+		
+	}
+]

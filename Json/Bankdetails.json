@@ -1,0 +1,20 @@
+[
+{
+
+"Bankname"                 : "State Bank of India",
+"Account_holdername"       : "Abdul kalam",
+"Account_number"           : "8598748586486",
+"account_type"             : "saving",
+"branch_code"              : "976986",
+"ifsc_code"                : "SBI000068",
+"branch_address"           : "Latin mart street",
+
+"tax_code"                 : "1263L",
+"pan_number"               : "ps55776",
+"iso_number"               : "ISO 9001",
+"lut_number"               : "97659758645",
+"lut_date"                 : "20/10/2023",
+"msme_registration_number" : "5858758"
+
+}
+]

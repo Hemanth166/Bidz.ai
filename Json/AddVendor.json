@@ -1,0 +1,27 @@
+[
+{
+	
+"Company_Name"         :  "Sticks",
+"Person_Name"          :  "Hemanth kumar",
+"Email"                :  "workspacemy38@gmail.com",
+
+"ITemCode"             : "DE11902",
+"Quantity"             : "55",
+"Part_NumberOptional"  : "7010671915",
+"Proposal_Description" : "Text only uploaded her",
+"Unit"                 : "Dozen",
+"Request_Number"       : "5645477777",
+"From_Date"            : "13/10/2023",
+"To_Date"              : "14/10/2023",
+"Address_Line_1"       : "salem kannakuruchi",
+"Postal_Zipcode"       : "636 007",
+"Mobile_Number"        : "8528531488",
+"Country"              : "INDIA",
+"Hours"                : "05",
+"Minute"               : "30",
+"State"                : "Tamil Nadu",
+"City"                 : "Salem",
+"Times"                : "9:30 AM"
+
+}
+]

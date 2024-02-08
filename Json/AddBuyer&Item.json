@@ -1,0 +1,23 @@
+[
+	{
+		"First_name"        : "Tester",
+		"Last_Name"         : "Hemanth",
+		"Email"             : "testinghemanth3@gmail.com",
+		"Phone"             : "9740683959",
+		"Department"        : "SHIELD",
+		"Role"              : "Mentor",
+		"Password"          : "Mirshath@123",
+		"Confirm_Password"  : "Mirshath@123",
+		"Update_Last_Name"  : "Raaj V",
+		
+		
+		"Item_Name"         : "DELLKT",
+		"Item_Code"         : "DE11902",
+		"Category"          : "IKSTMADRAS",
+		"UNSPSC_Code"       : "10101501 - Cats",
+		"HSN_Code"          : "1011010 - LIVE HORSES, ASSES, MULES AND HINNIES PURE-BRED BREEDING ANIMALS HORSES"
+		
+	}
+]
+
+
